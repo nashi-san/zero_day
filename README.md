@@ -1,1 +1,1 @@
-*small* # zero_day read me file
+* # zero_day read me file*
